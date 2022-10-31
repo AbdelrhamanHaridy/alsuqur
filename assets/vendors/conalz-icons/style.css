@@ -1,0 +1,200 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('fonts/icomoon78ed.eot?orkqwr');
+  src: url('fonts/icomoon78ed.eot?orkqwr#iefix') format('embedded-opentype'),
+    url('fonts/icomoon78ed.ttf?orkqwr') format('truetype'),
+    url('fonts/icomoon78ed.woff?orkqwr') format('woff'),
+    url('fonts/icomoon78ed.svg?orkqwr#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+
+
+
+.icon-check:before {
+  content: "\e905";
+}
+.icon-heart-rate:before {
+  content: "\e911";
+}
+.icon-phone-income:before {
+  content: "\e91d";
+}
+.icon-aim-target-arrow-goal:before {
+  content: "\e900";
+}
+.icon-analysis-analytics-business:before {
+  content: "\e901";
+}
+.icon-analytics-hands-report:before {
+  content: "\e902";
+}
+.icon-award-badge-quality:before {
+  content: "\e903";
+}
+.icon-chart-diagram-pie:before {
+  content: "\e904";
+}
+.icon-circles-graphic-design:before {
+  content: "\e906";
+}
+.icon-clock:before {
+  content: "\e907";
+}
+.icon-clock-1:before {
+  content: "\e908";
+}
+.icon-code-coding-development-programming-web-webpage:before {
+  content: "\e909";
+}
+.icon-comment:before {
+  content: "\e90a";
+}
+.icon-creative:before {
+  content: "\e90b";
+}
+.icon-download:before {
+  content: "\e90c";
+}
+.icon-email:before {
+  content: "\e90d";
+}
+.icon-email-1:before {
+  content: "\e90e";
+}
+.icon-fast-forward-thin-double-arrows:before {
+  content: "\e90f";
+}
+.icon-gear-man-setting:before {
+  content: "\e910";
+}
+.icon-idea:before {
+  content: "\e912";
+}
+.icon-image:before {
+  content: "\e913";
+}
+.icon-like:before {
+  content: "\e914";
+}
+.icon-link:before {
+  content: "\e915";
+}
+.icon-location:before {
+  content: "\e916";
+}
+.icon-map-marker-outlined:before {
+  content: "\e917";
+}
+.icon-marketing-analysis-marketing-research:before {
+  content: "\e918";
+}
+.icon-medal-award:before {
+  content: "\e919";
+}
+.icon-meeting-presentation-training:before {
+  content: "\e91a";
+}
+.icon-minus:before {
+  content: "\e91b";
+}
+.icon-phone:before {
+  content: "\e91c";
+}
+.icon-play:before {
+  content: "\e91e";
+}
+.icon-plus:before {
+  content: "\e91f";
+}
+.icon-protection-rain-umbrella:before {
+  content: "\e920";
+}
+.icon-right-arrow:before {
+  content: "\e921";
+}
+.icon-down-arrow:before {
+  content: "\e922";
+}
+.icon-left-arrow:before {
+  content: "\e923";
+}
+.icon-right-arrow1:before {
+  content: "\e924";
+}
+.icon-right-arrow-1:before {
+  content: "\e925";
+}
+.icon-up-arrow-1:before {
+  content: "\e926";
+}
+.icon-down-arrow-1:before {
+  content: "\e927";
+}
+.icon-left-arrow-1:before {
+  content: "\e928";
+}
+.icon-search:before {
+  content: "\e929";
+}
+.icon-send:before {
+  content: "\e92a";
+}
+.icon-settings:before {
+  content: "\e92b";
+}
+.icon-settings-gear:before {
+  content: "\e92c";
+}
+.icon-strategy-planning:before {
+  content: "\e92d";
+}
+.icon-success-achievement-award-medal-winner:before {
+  content: "\e92e";
+}
+.icon-tag-chevron-thin:before {
+  content: "\e92f";
+}
+.icon-target-aim-sight:before {
+  content: "\e930";
+}
+.icon-team-teamwork-users:before {
+  content: "\e931";
+}
+.icon-up-arrow:before {
+  content: "\e932";
+}
+.icon-up-arrow-s:before {
+  content: "\e933";
+}
+.icon-user:before {
+  content: "\e934";
+}
+.icon-user-1:before {
+  content: "\e935";
+}
+.icon-zoom-in:before {
+  content: "\e936";
+}
+
