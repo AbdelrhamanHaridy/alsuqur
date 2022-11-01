@@ -2439,19 +2439,20 @@ ul {
 .about-one__left .section-title__title {
   margin-bottom: -26px;
 }
-
+/* margin-right: 50px; */
 .about-one__left-text {
   font-size: 18px;
   font-weight: 500;
   color: var(--conalz-base);
   line-height: 34px;
-  margin-right: 50px;
+  margin-right: 0;
   margin-bottom: 45px;
 }
 
 .about-one__points {
   position: relative;
   display: block;
+  padding: 0;
 }
 
 .about-one__points li {
@@ -2470,11 +2471,13 @@ ul {
   top: -2px;
 }
 
+/* padding-right: 32px; */
 .about-one__points li .icon span {
   position: relative;
   display: inline-block;
   color: #3d3d63;
-  padding-right: 32px;
+  padding-right: 0;
+  padding-left: 32px;
   transition: all 500ms linear;
   transition-delay: 0.1s;
   transform: scale(1);
@@ -2531,13 +2534,13 @@ ul {
   border-top-right-radius: 60px;
   mix-blend-mode: overlay;
 }
-
+/* right: 0 commented */
 .about-one__bottom-expert {
   position: absolute;
   top: 0;
   bottom: 0;
   left: 25px;
-  right: 0;
+  /* right: 0; */
   display: flex;
   align-items: flex-start;
   justify-content: center;
@@ -5769,10 +5772,12 @@ ul {
   background-color: var(--conalz-base);
 }
 
+/* right: 200px; */
 .team-one__carousel.owl-theme .owl-nav {
   position: absolute;
   top: -125px;
-  right: 200px;
+  /* right: 200px; */
+  left: 200px;
   margin: 0;
 }
 
