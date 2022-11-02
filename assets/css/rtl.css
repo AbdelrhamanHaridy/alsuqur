@@ -79,3 +79,36 @@
   padding-right: 74px !important;
   padding-left: 0;
 }
+.about-one__left .section-title__title {
+  margin-bottom: -26px;
+}
+.about-one__left-text {
+  margin-right: 0;
+}
+.about-one__points {
+  padding: 0;
+}
+.about-one__points li {
+  top: -2px;
+}
+.about-one__points li .icon span {
+  padding-right: 0;
+  padding-left: 32px;
+}
+.team-one__carousel.owl-theme .owl-nav {
+  right: 0;
+  left: 200px;
+}
+.main-slider__sub-title {
+  letter-spacing: 0;
+  word-spacing: 4px;
+}
+.main-slider__content {
+  text-align: right;
+}
+.about-one__bottom-expert {
+  right: 40px;
+}
+.why-choose-one__progress .count-text {
+  left: -10px;
+}
