@@ -1,11 +1,11 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@700&display=swap');
 /*--------------------------------------------------------------
 # Common
 --------------------------------------------------------------*/
 :root {
-  --conalz-font: 'Kumbh Sans', sans-serif;
-  --conalz-font-two: 'Titillium Web', sans-serif;
-  --conalz-reey-font: "reeyregular";
+  --conalz-font: 'Tajawal', sans-serif;
+  --conalz-font-two: 'Tajawal', sans-serif;
+  --conalz-reey-font: "Tajawal";
   --conalz-gray: #372948;
   --conalz-gray-rgb: 35, 35, 35;
   --conalz-white: #ffffff;
@@ -485,6 +485,43 @@ ul {
 }
 
 
+
+.whats-icon img{
+  text-align: center;
+  color: #fff;
+  text-decoration: none;
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  width: 65px;
+  height: 65px;
+  line-height: 60px;
+  z-index: 9999;
+  outline: 0;
+  -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  -o-transition: all 0.3s ease
+}
+
+.phone-icon img{
+  text-align: center;
+  color: #fff;
+  text-decoration: none;
+  position: fixed;
+  bottom: 120px;
+  left: 20px;
+  width: 65px;
+  height: 65px;
+  line-height: 60px;
+  z-index: 9999;
+  outline: 0;
+  -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  -o-transition: all 0.3s ease
+}
+
+
+
 /*--------------------------------------------------------------
 # Navigations One
 --------------------------------------------------------------*/
@@ -526,7 +563,7 @@ ul {
 }
 
 .main-header__top-address-list li+li {
-  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .main-header__top-address-list li .icon {
@@ -542,7 +579,7 @@ ul {
 }
 
 .main-header__top-address-list li .text {
-  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .main-header__top-address-list li .text p {
@@ -655,7 +692,6 @@ ul {
 .main-menu__wrapper {
   position: relative;
   display: block;
-  padding: 0 35px;
 }
 
 .main-menu__wrapper-inner {
@@ -678,7 +714,7 @@ ul {
   z-index: 1;
 }
 .main-menu__logo img{
-  width: 200px;
+  width: 180px;
 }
 
 .main-menu__logo:before {
@@ -688,7 +724,6 @@ ul {
   bottom: -17px;
   right: 0;
   left: -110px;
-  background-color: var(--conalz-white);
   z-index: -1;
   clip-path: polygon(0 0, 100% 0%, 77% 100%, 0% 100%);
 }
@@ -700,7 +735,6 @@ ul {
   bottom: -17px;
   right: -100000000px;
   left: 0;
-  background-color: var(--conalz-white);
   z-index: -1;
 }
 
@@ -750,7 +784,7 @@ ul {
 }
 
 .main-menu__call-content {
-  margin-left: 15px;
+  margin-right: 15px;
 }
 
 .main-menu__call-content span {
@@ -3010,7 +3044,7 @@ ul {
 }
 
 .cta-one__img-box img {
-  width: 100%;
+  width: 300px;
   border-top-right-radius: 94px;
 }
 
@@ -9497,7 +9531,7 @@ ul {
 }
 
 .mission-one__img-one img {
-  width: 100%;
+  width: 300px;
   border-top-right-radius: 190px;
 }
 
@@ -9508,7 +9542,7 @@ ul {
 }
 
 .mission-one__img-two img {
-  width: auto;
+  width: 200px;
   border-top-right-radius: 110px;
 }
 
@@ -9519,7 +9553,7 @@ ul {
 }
 
 .mission-one__img-three img {
-  width: auto;
+  width: 300px;
   border-top-left-radius: 100px;
 }
 
